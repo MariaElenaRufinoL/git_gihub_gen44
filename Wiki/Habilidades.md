@@ -1,14 +1,21 @@
 # Habilidades
 
-Link se representa en toda la saga como un gran espadachín. Por lo general comienza su aventura como un muchacho común con poca o ninguna habilidad con la espada. Sin embargo, cuando surgen problemas, Link demuestra una aptitud natural para el uso de la espada y es capaz de derrotar a sus enemigos con facilidad. En algunos juegos, Link puede aprender técnicas avanzadas con la espada y complicados combos de movimiento.
+Mario hizo su primera aparición como el protagonista del juego de arcade Donkey Kong, lanzado en 1981. Desde Super Mario Bros.
 
-![link_zelda](https://user-images.githubusercontent.com/112226789/192076243-18b60c3a-b411-4467-aed7-687087a209f1.jpg)
-
-Además, Link normalmente es presentado con una excelente condición física, realizando saltos mortales fácilmente, así como ser capaz de realizar sumo, como se ve en Twilight Princess. A pesar de esto, Link, por lo general se encuentra indefenso sin un arma o un objeto. Esto se ve en The Wind Waker, donde Link pierde su espada después de ser lanzado a la Isla del Diablo y debe utilizar sus habilidades sigilosas para moverse por la isla llena de enemigos. Aunque en algunos juegos, Link es fácilmente capaz de recoger piedras de gran tamaño o empujar bloques de su tamaño, en otros juegos se ve obligado a usar brazaletes especiales o guantes para aumentar aún más su fuerza.
-
+![](img/mario_1.jpg)
+Sus habilidades han sido sus poderes de saltos y pisotones, con los que derrota a la mayoría de sus enemigos; y su habilidad para ganar poderes con una plétora de elementos, como el Súper Champiñon, la Flor de Fuego y la Súper Estrella. 
 
 
-Link es capaz de utilizar hechizos como el Fuego de Din, siempre que posea una barra de magia, que suele ser concedida por una Gran Hada. Link también tiene talento para tocar una amplia variedad de instrumentos, tales como la Ocarina del Tiempo. Estos objetos musicales sirven de gran ayuda a Link para superar los obstáculos de sus aventuras.
+![](img/mario_2.jpg)
 
-![link-ocarina](https://user-images.githubusercontent.com/112226789/192076009-8b9a1169-782e-464e-be54-ee2747e63c26.jpg) 
 
+
+La habilidad más notable de Mario es su Salto, que es su movimiento básico en el que confía para derrotar a los enemigos, evitar obstáculos y activar objetos útiles como Bloques ? e Interruptores P. Aunque Luigi tiene saltos superiores, Mario es más conocido. 
+
+![](img/mario_3.jpg)
+
+También es capaz de realizar varias maniobras acrobáticas, como el Salto largo, el Retroceso, el Salto Giro y el Salto escalada, siendo el Salto escalada una de sus habilidades más recurrentes. Mario también puede usar una variedad de ataques de artes marciales básicas, incluyendo golpes y patadas; a pesar de que en la mayoría de los juegos, el salto es su principal forma de ataque. La principal arma de Mario es el Martillo en Donkey Kong, aunque Mario a menudo usa el Martillo como un arma en los juegos de rol de Mario. 
+
+![](img/mario_4.png)
+
+`![]('img/nombreImagen.png')`
